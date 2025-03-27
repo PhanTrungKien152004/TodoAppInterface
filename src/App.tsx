@@ -45,7 +45,7 @@ function App() {
         variant="h3"
         component="h2"
       >
-        TODO LIST
+        TODO LIST APP
       </Typography>
       <Box
         sx={{
